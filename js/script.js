@@ -1,4 +1,4 @@
-function sumar() {
+function suma() {
     let v1 = document.getElementById("op1").value
     let v2 = document.getElementById("op1").value
 
